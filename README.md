@@ -4,7 +4,7 @@
 
 | Nombre completo                          | Código Estudiante |
 |------------------------------------------|-------------------|
-| Edward Augusto Ramirez Rodriguez         | 0000324316        |
+| Luis Fernando Alvarez        | 0000371905        |
 
 
 ## Estructura de Paquetes Base
